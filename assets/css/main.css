@@ -19,7 +19,7 @@
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-		display: hey;
+		display: block;
 	}
 
 	body {
